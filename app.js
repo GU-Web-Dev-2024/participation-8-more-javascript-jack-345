@@ -1,8 +1,8 @@
 "use strict";
 
 //import modules
-import { addTask, clearInput } from "./todo";
-import { saveTasks, loadTasks } from "./storage";
+import { addTask, clearInput } from "./todo.js";
+import { saveTasks, loadTasks } from "./storage.js";
 
 //import * as storage from "./storage.js";
 
